@@ -1,3 +1,3 @@
-import second from './mysubmodule/utils/numberUtils';
+import NumberUtils from './mysubmodule/utils/numberUtils';
 
 console.log(NumberUtils.getNumberFormat('1500'));
